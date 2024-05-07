@@ -1,1 +1,105 @@
-https://labs.cognitiveclass.ai/v2/tools/jupyterlab?ulid=ulid-140e43f5fd20c29d3a5822d5d915fee6f2677d50 
+Skip to left side bar
+DataScienceEcosystem.ipynb
+
+
+
+
+
+Filter files by name
+/labs/Module2_Coursera/
+Name
+Last Modified
+
+
+
+
+
+
+
+
+
+
+Markdown
+
+
+
+Run as Pipeline
+
+
+Python
+In this Notebook, Data Science Tools and Ecosystem are Summarized.
+Data Science Tools and Ecosystem
+Objectives¶
+Phyton
+R
+SQL
+Some of the Popular languages that Data Scientist use are:
+Phyton
+SQL
+Julia
+Java
+C++
+Some of the Libraries used by Data Scientist include:
+NumPy
+Matplotlib
+TensorFlow
+PyTorch
+Data Science Tools
+Apache SparK
+Jupyter Notebook
+Apache Hadoop
+Below are a few examples of evaluating arithmetic expressions in Python
+print
+## This is a simple arithmetic expression to multiply then add integers 
+print ((3*4)+5);
+17
+17
+## This will convert 200 minutes into to hours by dividing by 60
+​
+print(200/60)
+3.3333333333333335
+Author
+Romelus Pierre
+
+## In this Notebook, Data Science Tools and Ecosystem are Summarized.
+Cell Tags
+Add Tag
+Raw NBConvert Format
+
+Slide Type
+
+Advanced Tools
+Cell Metadata
+{}
+Notebook Metadata
+{
+    "kernelspec": {
+        "display_name": "Python",
+        "language": "python",
+        "name": "conda-env-python-py"
+    },
+    "language_info": {
+        "codemirror_mode": {
+            "name": "ipython",
+            "version": 3
+        },
+        "file_extension": ".py",
+        "mimetype": "text/x-python",
+        "name": "python",
+        "nbconvert_exporter": "python",
+        "pygments_lexer": "ipython3",
+        "version": "3.7.12"
+    }
+}
+
+Simple
+0
+2
+
+Python | Disconnected
+Saving failed
+1
+DataScienceEcosystem.ipynb
+English (United States)
+Ln 1, Col 1
+Mode: Command
